@@ -16,7 +16,7 @@
 ### Mandatory conditions for functioning:
 - A separate directory with notes (For example: the task directory; it contains note1.md, note2.md ... note5.md, etc.)
 - A special format of notes (all data for display is contained in the frontmatter; the note has no text)
-- [Example design notes](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haik u/blob/main/md/%D0%B2%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5%20%D0%BC%D0%BE%D1%80%D0%B5.md)
+- [Example design notes](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/md/%D0%B2%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5%20%D0%BC%D0%BE%D1%80%D0%B5.md))
 >### Installation:
 - **Placing the code on the note page**. Create a note with a frontmatter using a template. 
 - [Example of a note page with widget and frontmatter code](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/md/widget.md)

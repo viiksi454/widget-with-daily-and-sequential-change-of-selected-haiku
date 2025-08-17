@@ -1,8 +1,6 @@
 ---
 cssclasses:
-  - cards
-  - cards-cols-4
-  - haiku
+    - haiku
 ---
 ```dataviewjs
 

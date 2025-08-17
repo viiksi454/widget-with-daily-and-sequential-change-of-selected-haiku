@@ -22,4 +22,4 @@
 - **Подключение _.css_ в свойстве _cssclasses_ фронтматтера**. В директорию _Snippets_ хранилища поместите файл _.css_ и подключите его (Настройки - Оформление - Фрагменты css кода - включиь - обновить).
 ---
 ### Работа виджета
-![widget_work](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/widget_work.gif)
+<center>![widget_work](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/widget_work.gif)</center>center>

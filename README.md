@@ -1,4 +1,3 @@
-
 ## Widget for designing a Japanese poetry database.
 ![note_img](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/images/note_img.jpeg)
 >The widget can be used to design pages of a thematic database-collection of Japanese poetry.
@@ -32,7 +31,6 @@
 |The code was compiled using AI **_DeepSeek_**|Code installation, modification, distribution - free|---
 ---
 ## Виджет для оформления базы японской поэзии.
-![note_img](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/images/note_img.jpeg)
 >Виджет может быть использован для оформления страниц тематической базы-сборника японской поэзии.
 ### Возможности:
 - Ежедневная автоматическая смена контента
@@ -54,9 +52,6 @@
 - **Размещение кода на странице заметки**. Создайте заметку с фронтматтером по шаблону.
   - [Пример страницы заметки с кодом виджета и фронтамттера](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/md/widget.md)
 - **Подключение _.css_ в свойстве _cssclasses_ фронтматтера**. В директорию _Snippets_ хранилища поместите файл _.css_ и подключите его (Настройки - Оформление - Фрагменты css кода - включиь - обновить).
----
-### Работа виджета
-![widget_work](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/images/widget_work.gif)
 ---
 
 |**Дополнительная информация**| |

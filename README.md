@@ -3,7 +3,7 @@
 ### Возможности:
 - Ежедневная автоматическая смена контента
 - Смена контента по кнопке
-- Настраиваемый вид (_.css_)
+- Настраиваемый вид [.css]
 ### В основе:
 - Код _dataviewjs_, осуществляющий поиск заметок, созданных по специальному формату, в определённой директории и собирающий из них необходимый контент для демонстрации.
   - [Пример кода фронтматтера заметки](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/note%20frontmatter)
@@ -25,4 +25,4 @@
 ![wigdet_img](https://github.com/user-attachments/assets/e14d4cff-0c59-42dc-844e-bf5bb27cf02d)
 - Виджет на странице в блоке с таблицей японского календаря сезонов года.
 ![note_img](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/note_img.jpeg)
-- Работа виджета.
+

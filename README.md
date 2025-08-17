@@ -1,7 +1,6 @@
 ## Виджет для оформления базы японской поэзии.
 ![note_img](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/note_img.jpeg)
 >Виджет может быть использован для оформления страниц тематической базы-сборника японской поэзии.
-
 ### Возможности:
 - Ежедневная автоматическая смена контента
 - Смена контента по кнопке
@@ -25,5 +24,6 @@
 ---
 ### Работа виджета
 ![widget_work](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/widget_work.gif)
+---
 #### Дополнительная информация:
 - При составлении кода использовался ИИ **_DeepSeek_**.

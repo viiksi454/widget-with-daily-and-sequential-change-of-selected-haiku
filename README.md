@@ -4,7 +4,7 @@
 ### Возможности:
 - Ежедневная автоматическая смена контента
 - Смена контента по кнопке
-- Настраиваемый вид _[.css](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/haiku.css)_
+- Настраиваемый вид _[.css](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/css/haiku.css)_
 ### В основе:
 - Код _dataviewjs_, осуществляющий поиск заметок, созданных по специальному формату, в определённой директории и собирающий из них необходимый контент для демонстрации.
   - [Пример кода фронтматтера заметки](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/note%20frontmatter.md)

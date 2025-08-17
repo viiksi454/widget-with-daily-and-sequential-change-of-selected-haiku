@@ -1,4 +1,5 @@
 # Виджет для оформления базы японской поэзии.
+![note_img](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/note_img.jpeg)
 >Виджет может быть использован для оформления страниц тематической базы-сборника японской поэзии.
 ### Возможности:
 - Ежедневная автоматическая смена контента
@@ -36,4 +37,4 @@
 
 | <h3>📊 Univer Sheets</h3> | |
 | :------------------------ | :------------------- |
-|![wigdet_img](https://github.com/user-attachments/assets/e14d4cff-0c59-42dc-844e-bf5bb27cf02d)|![note_img](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/note_img.jpeg)|
+|![wigdet_img](https://github.com/user-attachments/assets/e14d4cff-0c59-42dc-844e-bf5bb27cf02d)|*|

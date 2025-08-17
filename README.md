@@ -21,6 +21,5 @@
 - **Размещение кода на странице заметки**. Создайте заметку с фронтматтером по шаблону.
 - **Подключение _.css_ в свойстве _cssclasses_ фронтматтера**. В директорию _Snippets_ хранилища поместите файл _.css_ и подключите его (Настройки - Оформление - Фрагменты css кода - включиь - обновить).
 ---
-| Работа виджета| |
-| :------------------------ | :------------------- |
-|![wigdet_img](https://github.com/user-attachments/assets/e14d4cff-0c59-42dc-844e-bf5bb27cf02d)|![widget_work](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/widget_work.gif)|
+### Работа виджета
+![widget_work](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/widget_work.gif)

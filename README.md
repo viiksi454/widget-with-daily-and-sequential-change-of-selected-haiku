@@ -24,4 +24,3 @@
 - Виджет на странице в блоке с таблицей японского календаря сезонов года.
 ![note_img](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/note_img.jpeg)
 - Работа виджета.
-![widget_work.mov](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/widget_work.mov)

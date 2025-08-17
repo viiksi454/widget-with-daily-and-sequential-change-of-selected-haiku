@@ -22,13 +22,18 @@
 ---
 ### Примеры:
 - Изображение виджета.
-![wigdet_img](https://github.com/user-attachments/assets/e14d4cff-0c59-42dc-844e-bf5bb27cf02d)
+
 
 - Виджет на странице в блоке с таблицей японского календаря сезонов года.
-![note_img](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/note_img.jpeg)
+
 
 - Работа виджета:
 ![widget_work](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/widget_work.gif)
 ---
 #### Дополнительные сведения:
 - При создании кода использован ИИ **_DeepSeek_**.
+
+
+| <h3>📊 Univer Sheets</h3> | |
+| :------------------------ | :------------------- |
+|![wigdet_img](https://github.com/user-attachments/assets/e14d4cff-0c59-42dc-844e-bf5bb27cf02d)|![note_img](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/note_img.jpeg)|

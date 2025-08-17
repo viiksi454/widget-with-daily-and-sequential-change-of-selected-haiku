@@ -19,6 +19,7 @@
   - [Пример оформления заметки](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/%D0%B2%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5%20%D0%BC%D0%BE%D1%80%D0%B5.md)
 >### Установка:
 - **Размещение кода на странице заметки**. Создайте заметку с фронтматтером по шаблону.
+  - [Пример страницы заметки с кодом виджета и фронтамттера](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/widget.md)
 - **Подключение _.css_ в свойстве _cssclasses_ фронтматтера**. В директорию _Snippets_ хранилища поместите файл _.css_ и подключите его (Настройки - Оформление - Фрагменты css кода - включиь - обновить).
 ---
 ### Работа виджета

@@ -17,4 +17,7 @@
 >### Установка:
 - Размещение кода на странице заметки.
 - Подключение _.css_ в свойстве _cssclasses_ фронтматтера.
+---
+### Примеры:
+![wigdet_img](https://github.com/user-attachments/assets/e14d4cff-0c59-42dc-844e-bf5bb27cf02d)
 

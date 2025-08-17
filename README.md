@@ -25,4 +25,4 @@
 ![wigdet_img](https://github.com/user-attachments/assets/e14d4cff-0c59-42dc-844e-bf5bb27cf02d)
 - Виджет на странице в блоке с таблицей японского календаря сезонов года.
 ![note_img](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/note_img.jpeg)
-
+---

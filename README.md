@@ -1,3 +1,36 @@
+
+## Widget for designing a Japanese poetry database.
+![note_img](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/images/note_img.jpeg)
+>The widget can be used to design pages of a thematic database-collection of Japanese poetry.
+### Features:
+- Daily automatic content change
+- Content change by button
+- Customizable view _[.css](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/css/haiku.css)_
+### Based on:
+- _dataviewjs_ code that searches for notes created in a special format in a specific directory and collects the necessary content for display.
+- [Example code of the note frontmatter](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/md/note%20frontmatter.md)
+### Display:
+- Kanji hoku
+- Transcription (in English)
+- Text of the poem
+- Author
+### Mandatory conditions for functioning:
+- A separate directory with notes (For example: the task directory; it contains note1.md, note2.md ... note5.md, etc.)
+- A special format of notes (all data for display is contained in the frontmatter; the note has no text)
+- [Example design notes](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haik u/blob/main/md/%D0%B2%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5%20%D0%BC%D0%BE%D1%80%D0%B5.md)
+>### Installation:
+- **Placing the code on the note page**. Create a note with a frontmatter using a template. 
+- [Example of a note page with widget and frontmatter code](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/md/widget.md)
+- **Connecting _.css_ in the _cssclasses_ property of the frontmatter**. Place the _.css_ file in the _Snippets_ directory of the repository and connect it (Settings - Design - CSS code fragments - enable - update).
+---
+### Widget work
+![widget_work](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/images/widget_work.gif)
+---
+
+|**Additional information**| |
+| :------------------------ | :------------------- |
+|The code was compiled using AI **_DeepSeek_**|Code installation, modification, distribution - free|---
+---
 ## Виджет для оформления базы японской поэзии.
 ![note_img](https://github.com/viiksi454/widget-with-daily-and-sequential-change-of-selected-haiku/blob/main/images/note_img.jpeg)
 >Виджет может быть использован для оформления страниц тематической базы-сборника японской поэзии.

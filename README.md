@@ -59,4 +59,4 @@
 |При составлении кода использовался ИИ **_DeepSeek_**|Установка кода, его модификация, распространение - свободное|
 <br>
 
-![img](https://github.com/viiksi454/site/blob/main/f001.jpg)
+![img](https://raw.githubusercontent.com/viiksi454/site/refs/heads/main/f001.jpg?token=GHSAT0AAAAAADJMFJJLJLHAFKLWGG7ISGZC2FDKKIQ)

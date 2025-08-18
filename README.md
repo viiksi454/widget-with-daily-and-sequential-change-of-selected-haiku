@@ -57,3 +57,7 @@
 |**Дополнительная информация**| |
 | :------------------------ | :------------------- |
 |При составлении кода использовался ИИ **_DeepSeek_**|Установка кода, его модификация, распространение - свободное|
+
+<br>
+
+![img](https://downloader.disk.yandex.com.am/preview/c00e8bccf824f792c1ade9651b8bdde9f6a3b825de096b0f1814c6284e881c44/68a38c14/VqwnwjBbMuX8CyV0k46yU4yajM_mF87xyrLt1WuSVMEcV_Xji8bL6oq6DSQNRzogkpekzmDrEjRfVFOD1dwBnQ%3D%3D?uid=0&filename=f001.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v3&size=2048x2048)
